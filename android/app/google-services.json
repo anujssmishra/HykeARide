@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713904183985",
+    "firebase_url": "https://hyke-a-ride-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hyke-a-ride",
+    "storage_bucket": "hyke-a-ride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713904183985:android:113ab0d0b6c893038d6090",
+        "android_client_info": {
+          "package_name": "com.hykearide.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713904183985-ah3s0r9oomu39lo8mecot0sifpguniue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzIH6hgA7Nr7pFF0CNJac548SxgTgB3Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713904183985-ah3s0r9oomu39lo8mecot0sifpguniue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
